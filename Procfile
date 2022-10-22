@@ -1,1 +1,1 @@
-web: gunicorn proyectoSITU.wsgi
+web: python manage.py runserver
