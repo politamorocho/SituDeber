@@ -1,1 +1,1 @@
-web: python ProyectoSITU/settings.py
+web: python ProyectoSITU/wsgi.py
