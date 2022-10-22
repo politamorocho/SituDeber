@@ -1,1 +1,1 @@
-web: gunicorn ProyectoSITU.wsgi
+web: gunicorn ProyectoSITU.wsgi:application --log-file - --log-level debug
